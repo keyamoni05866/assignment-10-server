@@ -9,7 +9,7 @@ app.get('/', (req, res) =>{
 });
 
 
-app.get('/chefs', (req, res) =>{
+app.get('/categories', (req, res) =>{
     res.send(chefs)
 })
 app.listen(port, () =>{
