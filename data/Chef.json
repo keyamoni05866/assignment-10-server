@@ -2,6 +2,7 @@
     {
         "id": 1,
       "chef_name": "Chef Lee",
+      "chef_image" : "https://t3.ftcdn.net/jpg/01/76/24/80/240_F_176248029_UskmyeReu1tQE5vVUJetrGOXZ9smhWx1.jpg",
       "experience": "10 years",
       "likes": 15000,
       "numbers_of_recipes": 15,
@@ -58,6 +59,7 @@
     {
         "id": 2,
       "chef_name": "Chef Wang",
+      "chef_image" : "https://t4.ftcdn.net/jpg/00/62/34/29/240_F_62342963_Ygxv9ecioZKClw8AwE4L0NCoOf0r67KU.jpg",
       "experience": "8 years",
       "likes": 12000,
       "numbers_of_recipes": 12,
@@ -115,6 +117,7 @@
   {
       "id": 3,
   "chef_name": "Chef Chen",
+  "chef_image" : "https://t3.ftcdn.net/jpg/01/62/54/88/240_F_162548807_8tLHPGm0OylfVVmSNxnxO111nsn8vygu.jpg",
   "experience": "12 years",
   "numbers_of_recipes": 16,
   "likes": 20000,
@@ -174,6 +177,7 @@
   {
       "id": 4,
   "chef_name": "Chef Liu",
+  "chef_image" : "https://t4.ftcdn.net/jpg/02/23/00/37/240_F_223003725_Q86VLGaSYXI3mvXxkbfHnbSV0oAuHv7X.jpg",
   "experience": "10 years",
   "likes": 15000,
   "numbers_of_recipes": 19,
@@ -226,6 +230,7 @@
   {
       "id": 5,
   "chef_name": "Chef Wang",
+  "chef_image" : "https://t3.ftcdn.net/jpg/01/87/04/08/240_F_187040838_Az9rZx4oZjMcs2bSDZtkPCqO3SLp7HM7.jpg",
   "experience": "15 years",
   "numbers_of_recipes": 20,
   "likes": 18000,
@@ -286,6 +291,7 @@
     "id": 6,
 "chef_name": "Chef Jang",
 "experience": "15 years",
+"chef_image" : "https://t4.ftcdn.net/jpg/03/35/63/85/240_F_335638576_75w58s3cXSzgoloeKxJZDfcuzAujVmgT.jpg",
 "numbers_of_recipes": 25,
 "likes": 18000,
 "description": "Chef Wang is a master of Sichuan cuisine, known for his bold flavors and use of Sichuan peppercorns. He has won numerous awards for his dishes, which are both delicious and visually stunning.",
