@@ -10,6 +10,7 @@
       "description": "Chef Lee is a master of Chinese cuisine, with a particular passion for Sichuan cooking. He loves to experiment with new flavors and ingredients, and is always pushing the boundaries of what is possible in the kitchen.",
       "recipes": [
         {
+          "recipe_id" :11,
           "name": "Mapo tofu",
           "method": "In a wok, heat oil over high heat. Add ground pork, garlic, and ginger, and stir-fry until browned. Add tofu, Sichuan peppercorns, chili oil, and chili bean paste, and stir-fry until the sauce is thick and bubbly. Serve with rice.",
           "ingredients": [
@@ -26,6 +27,7 @@
           "rating": 4.8
         },
         {
+          "recipe_id" :12,
           "name": "Kung pao chicken",
           "method": "In a wok, heat oil over high heat. Add chicken, garlic, and ginger, and stir-fry until cooked through. Add Sichuan peppercorns, dried red chilies, and peanuts, and stir-fry until fragrant. Serve with steamed rice.",
           "ingredients": [
@@ -41,6 +43,7 @@
           "rating": 4.6
         },
         {
+          "recipe_id" :13,
           "name": "Dan dan noodles",
           "method": "Cook the noodles according to package instructions. In a wok, heat oil over high heat. Add ground pork, garlic, and ginger, and stir-fry until browned. Add chili oil, soy sauce, and vinegar, and stir-fry until well combined. Serve over the cooked noodles.",
           "ingredients": [
@@ -68,6 +71,7 @@
       "description": "Chef Wang is a culinary artist, specializing in delicate and intricate dishes that are as beautiful to look at as they are delicious to eat. He has a deep understanding of Chinese cooking techniques and ingredients, and he loves to share his knowledge with others.",
       "recipes": [
         {
+          "recipe_id" :21,
           "name": "Shrimp and vegetable dumplings",
           "method": "In a mixing bowl, combine shrimp, water chestnuts, scallions, ginger, soy sauce, sesame oil, and cornstarch. Place a tablespoon of the filling in the center of a dumpling wrapper and seal the edges. Steam the dumplings for 10-12 minutes until cooked through. Serve hot with dipping sauce.",
           "ingredients": [
@@ -84,6 +88,7 @@
       "rating": 4.9
     },
     {
+      "recipe_id" :22,
       "name": "Stir-fried beef with broccoli",
       "method": "In a wok, heat oil over high heat. Add beef and stir-fry until browned. Add garlic and ginger, and stir-fry until fragrant. Add broccoli and stir-fry for 2-3 minutes. Add oyster sauce, soy sauce, and water, and stir-fry until the sauce thickens. Serve with steamed rice.",
       "ingredients": [
@@ -100,6 +105,7 @@
       "rating": 4.7
     },
     {
+      "recipe_id" :23,
       "name": "Hot and sour soup",
       "method": "In a pot, combine chicken stock, tofu, bamboo shoots, mushrooms, and vinegar. Bring to a boil and simmer for 5 minutes. Add beaten egg and stir until cooked. Season with soy sauce, salt, and pepper. Serve hot.",
       "ingredients": [
@@ -127,6 +133,7 @@
   "description": "Chef Chen is a culinary master, with a talent for combining traditional Chinese flavors and techniques with modern cooking styles. He is known for his innovative dishes and his passion for using the freshest and highest-quality ingredients.",
   "recipes": [
   {
+    "recipe_id" :31,
   "name": "Peking duck",
   "method": "Clean and dry the duck. Mix together honey, soy sauce, and five-spice powder, and brush the mixture over the duck. Roast the duck in the oven until the skin is crispy and golden. Serve with pancakes, scallions, and hoisin sauce.",
   "ingredients": [
@@ -141,6 +148,7 @@
   "rating": 4.9
   },
   {
+    "recipe_id" :32,
   "name": "Ma la xiang guo",
   "method": "In a wok, heat oil over high heat. Add Sichuan peppercorns, dried red chilies, and garlic, and stir-fry until fragrant. Add your choice of meats and vegetables, and stir-fry until cooked through. Season with soy sauce, sugar, and MSG. Serve with steamed rice.",
   "ingredients": [
@@ -158,6 +166,7 @@
   "rating": 4.8
   },
   {
+    "recipe_id" :33,
   "name": "Kung pao chicken",
   "method": "In a wok, heat oil over high heat. Add chicken and stir-fry until browned. Add Sichuan peppercorns, dried red chilies, and peanuts, and stir-fry until fragrant. Add scallions and garlic, and stir-fry until fragrant. Season with soy sauce, sugar, and vinegar. Serve with steamed rice.",
   "ingredients": [
@@ -188,6 +197,7 @@
   "description": "Chef Liu is a master of Cantonese cuisine, with a focus on fresh and seasonal ingredients. He is known for his delicate flavors and beautiful presentation, and his dishes are a favorite among both locals and visitors.",
   "recipes": [
   {
+    "recipe_id" :41,
   "name": "Cantonese-style steamed fish",
   "method": "Clean and dry the fish. Season with ginger, scallions, and soy sauce. Steam the fish over high heat until cooked through. In a separate pan, heat oil over high heat. Add ginger, scallions, and soy sauce, and stir-fry until fragrant. Pour the mixture over the fish and serve hot.",
   "ingredients": [
@@ -200,6 +210,7 @@
   "rating": 4.9
   },
   {
+    "recipe_id" :42,
   "name": "Wonton soup",
   "method": "In a bowl, mix together ground pork, shrimp, scallions, ginger, soy sauce, and sesame oil. Place a small spoonful of the mixture in the center of a wonton wrapper, and fold the wrapper to seal. Bring chicken stock to a boil in a pot. Add wontons and cook until they float to the surface. Season with soy sauce, salt, and pepper. Serve hot.",
   "ingredients": [
@@ -216,7 +227,7 @@
   "rating": 4.7
   },
   {
-      
+    "recipe_id" :43,
   "name": "Char siu pork",
   "method": "Mix together honey, soy sauce, hoisin sauce, rice wine, and five spice powder in a bowl. Rub the mixture all over the pork, and let marinate for at least 2 hours or overnight. Preheat oven to 375°F. Place the pork on a baking sheet and roast for 20-25 minutes, or until cooked through. Serve hot.",
   "ingredients": [
@@ -242,6 +253,7 @@
   "description": "Chef Wang is a master of Sichuan cuisine, known for his bold flavors and use of Sichuan peppercorns. He has won numerous awards for his dishes, which are both delicious and visually stunning.",
   "recipes": [
   {
+    "recipe_id" :51,
   "name": "Mapo tofu",
   "method": "In a wok, heat oil over high heat. Add ground pork and stir-fry until browned. Add Sichuan peppercorns, garlic, and ginger, and stir-fry until fragrant. Add tofu and stir gently. Add a mixture of chicken stock, soy sauce, and cornstarch, and stir until the sauce thickens. Serve hot with steamed rice.",
   "ingredients": [
@@ -259,6 +271,7 @@
   "rating": 4.9
   },
   {
+    "recipe_id" :52,
   "name": "Dan dan noodles",
   "method": "Cook noodles according to package instructions. In a wok, heat oil over high heat. Add ground pork and stir-fry until browned. Add Sichuan peppercorns, garlic, and ginger, and stir-fry until fragrant. Add chili oil, soy sauce, and sesame paste, and stir until well combined. Serve the sauce over the noodles, and top with scallions and peanuts.",
   "ingredients": [
@@ -277,6 +290,7 @@
   "rating": 4.7
   },
   {
+    "recipe_id" :53,
   "name": "Ma la hot pot",
   "method": "In a large pot, bring chicken or beef stock to a boil. Add Sichuan peppercorns, dried red chilies, ginger, garlic, and scallions. Add meat, vegetables, and tofu, and cook until tender. Dip the cooked ingredients in a mixture of sesame oil and soy sauce, and serve with steamed rice.",
   "ingredients": [
@@ -303,6 +317,7 @@
 "description": "Chef Wang is a master of Sichuan cuisine, known for his bold flavors and use of Sichuan peppercorns. He has won numerous awards for his dishes, which are both delicious and visually stunning.",
 "recipes": [
 {
+  "recipe_id" :61,
 "name": "Mapo tofu",
 "method": "In a wok, heat oil over high heat. Add ground pork and stir-fry until browned. Add Sichuan peppercorns, garlic, and ginger, and stir-fry until fragrant. Add tofu and stir gently. Add a mixture of chicken stock, soy sauce, and cornstarch, and stir until the sauce thickens. Serve hot with steamed rice.",
 "ingredients": [
@@ -320,6 +335,7 @@
 "rating": 4.4
 },
 {
+  "recipe_id" :62,
 "name": "Dan dan noodles",
 "method": "Cook noodles according to package instructions. In a wok, heat oil over high heat. Add ground pork and stir-fry until browned. Add Sichuan peppercorns, garlic, and ginger, and stir-fry until fragrant. Add chili oil, soy sauce, and sesame paste, and stir until well combined. Serve the sauce over the noodles, and top with scallions and peanuts.",
 "ingredients": [
@@ -338,6 +354,7 @@
 "rating": 4.7
 },
 {
+  "recipe_id" :63,
 "name": "Ma la hot pot",
 "method": "In a large pot, bring chicken or beef stock to a boil. Add Sichuan peppercorns, dried red chilies, ginger, garlic, and scallions. Add meat, vegetables, and tofu, and cook until tender. Dip the cooked ingredients in a mixture of sesame oil and soy sauce, and serve with steamed rice.",
 "ingredients": [
