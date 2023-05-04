@@ -14,15 +14,13 @@
           "name": "Mapo tofu",
           "method": "In a wok, heat oil over high heat. Add ground pork, garlic, and ginger, and stir-fry until browned. Add tofu, Sichuan peppercorns, chili oil, and chili bean paste, and stir-fry until the sauce is thick and bubbly. Serve with rice.",
           "ingredients": [
-            "1 lb soft tofu",
-            "1/2 lb ground pork",
-            "2 tbsp vegetable oil",
-            "1 tbsp garlic, minced",
+            " lb soft tofu",
+            " 1/2 lb ground pork",
+            " tbsp vegetable oil",
+            " tbsp garlic, minced",
             "1 tbsp ginger, minced",
-            "1 tsp Sichuan peppercorns",
-            "2 tbsp chili oil",
-            "2 tbsp chili bean paste",
-            "Cooked rice"
+            "1 tsp Sichuan peppercorns"
+           
           ],
           "rating": 4.8
         },
@@ -36,9 +34,8 @@
             "1 tbsp garlic, minced",
             "1 tbsp ginger, minced",
             "1 tsp Sichuan peppercorns",
-            "10 dried red chilies",
-            "1/2 cup peanuts",
-            "Steamed rice"
+            "10 dried red chilies"
+       
           ],
           "rating": 4.6
         },
@@ -52,9 +49,8 @@
             "1 tbsp vegetable oil",
             "1 tbsp garlic, minced",
             "1 tbsp ginger, minced",
-            "2 tbsp chili oil",
-            "2 tbsp soy sauce",
-            "2 tbsp black vinegar"
+            "2 tbsp chili oil"
+       
           ],
           "rating": 4.4
         }
@@ -68,22 +64,20 @@
       "chef_ratings": 4.2,
       "likes": 12000,
       "numbers_of_recipes": 12,
-      "description": "Chef Wang is a culinary artist, specializing in delicate and intricate dishes that are as beautiful to look at as they are delicious to eat. He has a deep understanding of Chinese cooking techniques and ingredients, and he loves to share his knowledge with others.",
+      "description": "Chef Wang is a culinary artist, specializing in delicate and intricate dishes that are as beautiful to look at as they are delicious to eat. He has a deep understanding of Chinese cooking techniques .",
       "recipes": [
         {
           "recipe_id" :21,
           "name": "Shrimp and vegetable dumplings",
-          "method": "In a mixing bowl, combine shrimp, water chestnuts, scallions, ginger, soy sauce, sesame oil, and cornstarch. Place a tablespoon of the filling in the center of a dumpling wrapper and seal the edges. Steam the dumplings for 10-12 minutes until cooked through. Serve hot with dipping sauce.",
+          "method": "In a mixing bowl, combine shrimp, water chestnuts, scallions, ginger, soy sauce, sesame oil, and cornstarch. Place a tablespoon of the filling in the center of a dumpling wrapper and seal the edges. ",
           "ingredients": [
         "1/2 lb raw shrimp, peeled and deveined",
         "1/2 cup water chestnuts, finely chopped",
         "2 scallions, finely chopped",
         "1 tbsp ginger, minced",
         "1 tbsp soy sauce",
-        "1 tbsp sesame oil",
-        "1 tbsp cornstarch",
-        "Dumpling wrappers",
-        "Dipping sauce"
+        "1 tbsp sesame oil"
+    
       ],
       "rating": 4.9
     },
@@ -97,10 +91,8 @@
         "1 tbsp garlic, minced",
         "1 tbsp ginger, minced",
         "1 lb broccoli, cut into florets",
-        "2 tbsp oyster sauce",
-        "2 tbsp soy sauce",
-        "1/4 cup water",
-        "Steamed rice"
+        "2 tbsp oyster sauce"
+
       ],
       "rating": 4.7
     },
@@ -114,9 +106,8 @@
         "1/2 cup bamboo shoots, julienned",
         "1/2 cup mushrooms, sliced",
         "2 tbsp black vinegar",
-        "1 egg, beaten",
-        "1 tbsp soy sauce",
-        "Salt and pepper to taste"
+        "1 egg, beaten"
+    
       ],
       "rating": 4.5
     }
@@ -142,33 +133,30 @@
   "1/4 cup soy sauce",
   "2 tsp five-spice powder",
   "Pancakes",
-  "Scallions",
-  "Hoisin sauce"
+  "Scallions"
+
   ],
   "rating": 4.9
   },
   {
     "recipe_id" :32,
   "name": "Ma la xiang guo",
-  "method": "In a wok, heat oil over high heat. Add Sichuan peppercorns, dried red chilies, and garlic, and stir-fry until fragrant. Add your choice of meats and vegetables, and stir-fry until cooked through. Season with soy sauce, sugar, and MSG. Serve with steamed rice.",
+  "method": "In a wok, heat oil over high heat. Add Sichuan peppercorns, dried red chilies, and garlic, and stir-fry until fragrant. Add your choice of meats and vegetables, and stir-fry until cooked through. ",
   "ingredients": [
   "1 tbsp vegetable oil",
   "1 tsp Sichuan peppercorns",
   "10-15 dried red chilies",
   "2 cloves garlic, minced",
   "1 lb meat (beef, chicken, pork, or lamb), thinly sliced",
-  "2 cups mixed vegetables (such as mushrooms, bell peppers, and bean sprouts)",
-  "2 tbsp soy sauce",
-  "1 tsp sugar",
-  "1 tsp MSG (optional)",
-  "Steamed rice"
+  "2 cups mixed vegetables (such as mushrooms, bell peppers, and bean sprouts)"
+ 
   ],
   "rating": 4.8
   },
   {
     "recipe_id" :33,
   "name": "Kung pao chicken",
-  "method": "In a wok, heat oil over high heat. Add chicken and stir-fry until browned. Add Sichuan peppercorns, dried red chilies, and peanuts, and stir-fry until fragrant. Add scallions and garlic, and stir-fry until fragrant. Season with soy sauce, sugar, and vinegar. Serve with steamed rice.",
+  "method": "In a wok, heat oil over high heat. Add chicken and stir-fry until browned. Add Sichuan peppercorns, dried red chilies, and peanuts, and stir-fry until fragrant. Add scallions and garlic.",
   "ingredients": [
   "1 lb boneless, skinless chicken breasts, cut into small cubes",
   "2 tbsp vegetable oil",
@@ -176,11 +164,7 @@
   "10-15 dried red chilies",
   "1/2 cup roasted peanuts",
   "2 scallions, chopped",
-  "2 cloves garlic, minced",
-  "2 tbsp soy sauce",
-  "1 tsp sugar",
-  "1 tbsp black vinegar",
-  "Steamed rice"
+  "2 cloves garlic, minced"
   ],
   "rating": 4.6
   }
@@ -199,7 +183,7 @@
   {
     "recipe_id" :41,
   "name": "Cantonese-style steamed fish",
-  "method": "Clean and dry the fish. Season with ginger, scallions, and soy sauce. Steam the fish over high heat until cooked through. In a separate pan, heat oil over high heat. Add ginger, scallions, and soy sauce, and stir-fry until fragrant. Pour the mixture over the fish and serve hot.",
+  "method": "Clean and dry the fish. Season with ginger, scallions, and soy sauce. Steam the fish over high heat until cooked through. In a separate pan, heat oil over high heat. Add ginger, scallions, and soy sauce.",
   "ingredients": [
   "1 whole fish (such as sea bass or red snapper)",
   "2 slices ginger",
@@ -212,24 +196,22 @@
   {
     "recipe_id" :42,
   "name": "Wonton soup",
-  "method": "In a bowl, mix together ground pork, shrimp, scallions, ginger, soy sauce, and sesame oil. Place a small spoonful of the mixture in the center of a wonton wrapper, and fold the wrapper to seal. Bring chicken stock to a boil in a pot. Add wontons and cook until they float to the surface. Season with soy sauce, salt, and pepper. Serve hot.",
+  "method": "In a bowl, mix together ground pork, shrimp, scallions, ginger, soy sauce, and sesame oil. Place a small spoonful of the mixture in the center of a wonton wrapper, and fold the wrapper to seal. ",
   "ingredients": [
   "1/2 lb ground pork",
   "1/2 lb raw shrimp, peeled and deveined",
   "2 scallions, finely chopped",
   "1 tbsp ginger, minced",
   "1 tbsp soy sauce",
-  "1 tbsp sesame oil",
-  "Dumpling wrappers",
-  "4 cups chicken stock",
-  "Salt and pepper to taste"
+  "1 tbsp sesame oil"
+
   ],
   "rating": 4.7
   },
   {
     "recipe_id" :43,
   "name": "Char siu pork",
-  "method": "Mix together honey, soy sauce, hoisin sauce, rice wine, and five spice powder in a bowl. Rub the mixture all over the pork, and let marinate for at least 2 hours or overnight. Preheat oven to 375°F. Place the pork on a baking sheet and roast for 20-25 minutes, or until cooked through. Serve hot.",
+  "method": "Mix together honey, soy sauce, hoisin sauce, rice wine, and five spice powder in a bowl. Rub the mixture all over the pork, and let marinate for at least 2 hours or overnight. ",
   "ingredients": [
   "1 lb pork shoulder or tenderloin, cut into long strips",
   "1/4 cup honey",
@@ -255,37 +237,28 @@
   {
     "recipe_id" :51,
   "name": "Mapo tofu",
-  "method": "In a wok, heat oil over high heat. Add ground pork and stir-fry until browned. Add Sichuan peppercorns, garlic, and ginger, and stir-fry until fragrant. Add tofu and stir gently. Add a mixture of chicken stock, soy sauce, and cornstarch, and stir until the sauce thickens. Serve hot with steamed rice.",
+  "method": "In a wok, heat oil over high heat. Add ground pork and stir-fry until browned. Add Sichuan peppercorns, garlic, and ginger, and stir-fry until fragrant. Add tofu and stir gently. Add a mixture of chicken stock.",
   "ingredients": [
   "1 lb soft tofu, cut into small cubes",
   "1/2 lb ground pork",
   "2 tbsp vegetable oil",
   "1 tsp Sichuan peppercorns",
   "2 cloves garlic, minced",
-  "1 tbsp ginger, minced",
-  "1 cup chicken stock",
-  "2 tbsp soy sauce",
-  "1 tbsp cornstarch",
-  "Steamed rice"
+  "1 tbsp ginger, minced"
   ],
   "rating": 4.9
   },
   {
     "recipe_id" :52,
   "name": "Dan dan noodles",
-  "method": "Cook noodles according to package instructions. In a wok, heat oil over high heat. Add ground pork and stir-fry until browned. Add Sichuan peppercorns, garlic, and ginger, and stir-fry until fragrant. Add chili oil, soy sauce, and sesame paste, and stir until well combined. Serve the sauce over the noodles, and top with scallions and peanuts.",
+  "method": "Cook noodles according to package instructions. In a wok, heat oil over high heat. Add ground pork and stir-fry until browned. Add Sichuan peppercorns, garlic, and ginger, and stir-fry until fragrant. Add chili oil.",
   "ingredients": [
   "8 oz Chinese wheat noodles",
   "1/2 lb ground pork",
   "2 tbsp vegetable oil",
   "1 tsp Sichuan peppercorns",
   "2 cloves garlic, minced",
-  "1 tbsp ginger, minced",
-  "2 tbsp chili oil",
-  "2 tbsp soy sauce",
-  "2 tbsp sesame paste",
-  "2 scallions, chopped",
-  "1/4 cup roasted peanuts, chopped"
+  "1 tbsp ginger, minced"
   ],
   "rating": 4.7
   },
@@ -319,37 +292,28 @@
 {
   "recipe_id" :61,
 "name": "Mapo tofu",
-"method": "In a wok, heat oil over high heat. Add ground pork and stir-fry until browned. Add Sichuan peppercorns, garlic, and ginger, and stir-fry until fragrant. Add tofu and stir gently. Add a mixture of chicken stock, soy sauce, and cornstarch, and stir until the sauce thickens. Serve hot with steamed rice.",
+"method": "In a wok, heat oil over high heat. Add ground pork and stir-fry until browned. Add Sichuan peppercorns, garlic, and ginger, and stir-fry until fragrant. Add tofu and stir gently. Add a mixture of chicken stock.",
 "ingredients": [
 "1 lb soft tofu, cut into small cubes",
 "1/2 lb ground pork",
 "2 tbsp vegetable oil",
 "1 tsp Sichuan peppercorns",
 "2 cloves garlic, minced",
-"1 tbsp ginger, minced",
-"1 cup chicken stock",
-"2 tbsp soy sauce",
-"1 tbsp cornstarch",
-"Steamed rice"
+"1 tbsp ginger, minced"
 ],
 "rating": 4.4
 },
 {
   "recipe_id" :62,
 "name": "Dan dan noodles",
-"method": "Cook noodles according to package instructions. In a wok, heat oil over high heat. Add ground pork and stir-fry until browned. Add Sichuan peppercorns, garlic, and ginger, and stir-fry until fragrant. Add chili oil, soy sauce, and sesame paste, and stir until well combined. Serve the sauce over the noodles, and top with scallions and peanuts.",
+"method": "Cook noodles according to package instructions. In a wok, heat oil over high heat. Add ground pork and stir-fry until browned. Add Sichuan peppercorns, garlic, and ginger, and stir-fry until fragrant. Add chili oil,.",
 "ingredients": [
 "8 oz Chinese wheat noodles",
 "1/2 lb ground pork",
 "2 tbsp vegetable oil",
 "1 tsp Sichuan peppercorns",
 "2 cloves garlic, minced",
-"1 tbsp ginger, minced",
-"2 tbsp chili oil",
-"2 tbsp soy sauce",
-"2 tbsp sesame paste",
-"2 scallions, chopped",
-"1/4 cup roasted peanuts, chopped"
+"1 tbsp ginger, minced"
 ],
 "rating": 4.7
 },
